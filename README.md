@@ -1,4 +1,4 @@
-#A Simple Web Portfolio I did at the start of my Web Dev Journey
+# A Simple Web Portfolio I did at the start of my Web Dev Journey
 
 This built with HTML and CSS, yes there isnt even any JavaScript...yet
 
